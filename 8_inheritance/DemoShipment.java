@@ -1,3 +1,7 @@
+/*
+	A program to demonstrate multilevel inheritance
+*/
+
 class Box {
 	private double width;
 	private double height;
